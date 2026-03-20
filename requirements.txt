@@ -1,0 +1,19 @@
+# Core Security Dependencies (Windows & Python 3.14 compatible)
+cryptography==43.0.3
+bcrypt==4.2.1
+
+# Web Framework
+flask==3.1.0
+
+# Configuration
+python-dotenv==1.0.1
+
+# Network Tools
+requests==2.32.3
+
+# CLI Interface
+rich==13.9.4
+click==8.1.8
+
+# Testing
+pytest==8.3.4
